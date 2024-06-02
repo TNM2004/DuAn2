@@ -1,0 +1,18 @@
+1a, 2c, 3c, 4c, 5a, 6b
+ladder: cầu thang 
+step stool: ghế đẩu 
+bed linen: khăn trải thảm 
+pier: bến tàu 
+1d, 2a, 3b, 4c, 5b, 6d
+staircase: cầu thang mà cố định 
+1c, 2d, 3b, 4a, 5d, 6b
+apron: tạp dề 
+drawer: ngăn kéo 
+grocerise: thực phẩm 
+prop: keep, hold, 
+1a, 2a, 3d, 4b, 5d, 6d
+napkins: vải, thảm 
+basket: rổ
+lawn: thảm cỏ 
+ a rolled mat : tấm thảm cuộn 
+inspect: kiểm tra 
